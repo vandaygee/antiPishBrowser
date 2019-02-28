@@ -1,0 +1,12 @@
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\AntiPhishBrowser.exe.config
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\AntiPhishBrowser.exe
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\AntiPhishBrowser.pdb
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.csprojResolveAssemblyReference.cache
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.Form1.resources
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.Properties.Resources.resources
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.csproj.GenerateResource.Cache
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.exe
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\obj\Debug\AntiPhishBrowser.pdb
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\HtmlAgilityPack.dll
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\duchess\documents\visual studio 2012\Projects\AntiPhishBrowser\AntiPhishBrowser\bin\Debug\HtmlAgilityPack.xml
